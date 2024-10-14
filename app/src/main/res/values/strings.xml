@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">t3a1-Sanchis-Silvia</string>
+    <string name="titulo">Cupcakes</string>
+    <string name="autor">Autor</string>
+    <string name="tituloDescripcion">Descripción</string>
+    <string name="textoDescripcion">Una receta ideal para inciarse con los cupcakes, con la que preparar unos ricos cupcakes de vainilla con cobertura de buttercream, cobertura de la que os proponemos tres versiones.</string>
+    <string name="tituloIngredientes">Ingredientes</string>
+    <string name="textoIngredientes">- 165 gramos de harina de repostería - 165 gramos de mantequilla sin sal - 165 gramos de azúcar - 15 ml de esencia de vainilla - 50 ml de leche - 5 gramos de levadura - 3 huevos medianos</string>
+    <string name="tituloReceta">Receta</string>
+    <string name="textoReceta">Una vez que tenemos el horno en marcha, y todos nuestros ingredientes medidos y pesados, vamos a comenzar a preparar la base de nuestros cupcakes. Nosotros empleamos una amasadora automática, pero se puede emplear también unas varillas manuales o un robot de cocina, lo que os resulte más cómodo dentro de lo que dispongáis.</string>
 </resources>
